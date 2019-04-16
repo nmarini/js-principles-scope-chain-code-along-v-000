@@ -17,5 +17,3 @@ const leastFavoriteCustomer = 'DT'
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'something else'
 }
-
-
