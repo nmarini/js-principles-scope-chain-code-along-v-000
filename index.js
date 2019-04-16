@@ -13,5 +13,3 @@ function overWriteBestCustomer(name) {
 }
 
 const leastFavoriteCustomer = 'DT'
-
-
